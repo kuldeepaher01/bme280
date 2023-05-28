@@ -1,6 +1,6 @@
-# I2C BME280 Temperature Read
+# I2C BME280 Read
 
-This project (main.c) demonstrates how to read temperature from an I2C BME280 sensor using ESP32.
+This project (main.c) demonstrates how to read temperature, humidity and pressure from an I2C BME280 sensor using ESP32.
 
 ### Build and Flash
 
